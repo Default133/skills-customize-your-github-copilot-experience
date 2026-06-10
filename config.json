@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "pytest-testing",
+      "title": "pytest Testing",
+      "description": "Write pytest unit tests for Python functions and verify expected behavior.",
+      "path": "assignments/pytest-testing",
+      "dueDate": "2026-06-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
